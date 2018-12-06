@@ -1,0 +1,23 @@
+{
+  "properties": [
+    {
+      "name": "config.cbsRoutine",
+      "type": "java.lang.String",
+      "description": "Description for config.cbsRoutine."
+    },
+    {
+      "name": "config.cbsPort",
+      "type": "java.lang.String",
+      "description": "Description for config.cbsPort."
+    },
+    {
+      "name": "config.cbsHost",
+      "type": "java.lang.String",
+      "description": "Description for config.cbsHost."
+    },
+    {
+      "name": "application.port",
+      "type": "java.lang.String",
+      "description": "Description for application.port."
+    }
+  ] }
